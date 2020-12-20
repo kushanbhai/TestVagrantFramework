@@ -8,7 +8,7 @@ import com.Automation.Pages.BaseClass;
 import com.Automation.Pages.NDTVHomePage;
 import com.Automation.Utility.Helper;
 
-public class LoginTestCRM extends BaseClass {
+public class NDTVWeatherDetails extends BaseClass {
 
 	/*
 	 * @Test public void loginApp() { LoginPage loginPage =
